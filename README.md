@@ -1,7 +1,8 @@
 # unsupervised-learing-and-feature-selection
-# **无监督学习**
-![项目证明](https://github.com/Dongzt/unsupervised-learing-and-feature-selection/assets/79237845/03ab87eb-6090-4008-8b66-fdecf1f4f02d)
 
+![项目证明](https://github.com/Dongzt/unsupervised-learing-and-feature-selection/assets/79237845/03ab87eb-6090-4008-8b66-fdecf1f4f02d)
+![图片](https://github.com/Dongzt/unsupervised-learing-and-feature-selection/assets/79237845/e49627b8-4bf3-43d7-9efd-66596f2642b4)
+# **无监督学习**
 ### 定义
 
 无监督学习（英语：unsupervised learning）是机器学习的一种方法，没有给定事先标记过的训练样本，自动对输入的数据进行分类或分群。
